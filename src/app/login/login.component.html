@@ -1,0 +1,30 @@
+<section class="container">
+    <div class="logo">
+        <picture>
+            <source media="(max-width: 450px)" srcset="assets/images/logo-mobile.png">
+            <img src="assets/images/logo-desktop.png" alt="SmartOn" >
+        </picture>
+
+    </div>
+    <div class="form-login">
+        <div class="inner-form">
+            <form>
+                <mat-form-field class="l-input-width">
+                    <mat-label class="l-label">アカウント</mat-label>
+                    <input matInput>
+                </mat-form-field>
+                <br />
+                <mat-form-field class="l-input-width">
+                    <mat-label class="l-label">パスワード</mat-label>
+                    <input matInput>
+                </mat-form-field>
+                <br />
+                <mat-slide-toggle [checked]="stay" (change)="onChangeSlideToggle($event)" class="label-stay">ログイン状態を保持する</mat-slide-toggle>
+                <br />
+            </form>
+        </div>
+        <div class="l-btn-stype01">
+            <button mat-raised-button class="btn-login">ログイン</button>
+        </div>
+    </div>
+</section>
