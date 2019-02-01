@@ -12,10 +12,7 @@ helof sdfsdf
       true,
       "check-space"
     ],
-    "curly": true,tyhjuy
-    "deprecation": {
-      "severity": "warn"
-    },
+
     "eofline": true,
     "forin": true,
     "import-blacklist": [
