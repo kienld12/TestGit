@@ -1,4 +1,4 @@
-{
+{jghjghjg
   "rulesDirectory": [
     "codelyzer"
   ],
@@ -10,7 +10,7 @@
       true,
       "check-space"
     ],
-    "curly": true,
+    "curly": true,tyhjuy
     "deprecation": {
       "severity": "warn"
     },
