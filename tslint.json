@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Soliton 
 Luvina
 sollghj
@@ -12,6 +13,9 @@ fsakfslkdfjsldk
 
 =======
 {
+=======
+{jghjghjg
+>>>>>>> luvina
   "rulesDirectory": [
     "codelyzer"
   ],
@@ -23,7 +27,7 @@ fsakfslkdfjsldk
       true,
       "check-space"
     ],
-    "curly": true,
+    "curly": true,tyhjuy
     "deprecation": {
       "severity": "warn"
     },
