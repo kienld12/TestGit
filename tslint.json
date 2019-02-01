@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Soliton 
 Luvina
 sollghj
@@ -14,6 +15,10 @@ fsakfslkdfjsldk
 =======
 {
 =======
+=======
+Le Dac keindsfs dsfdsds
+helof sdfsdf
+>>>>>>> luvina
 {jghjghjg
 >>>>>>> luvina
   "rulesDirectory": [
@@ -27,10 +32,7 @@ fsakfslkdfjsldk
       true,
       "check-space"
     ],
-    "curly": true,tyhjuy
-    "deprecation": {
-      "severity": "warn"
-    },
+
     "eofline": true,
     "forin": true,
     "import-blacklist": [
